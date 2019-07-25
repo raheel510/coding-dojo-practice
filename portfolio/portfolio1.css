@@ -1,0 +1,123 @@
+#container{
+    width: 830px;
+    height: 970px;
+    background-color: black;
+    display: inline-block;
+    padding-right: 100px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    margin: 0px auto;
+}
+
+#wrapper{
+    width: 900px;
+    height: 800px;
+    border: 2px solid darkslategray;
+    background-color: darkslategray;
+    margin: 0px auto;
+    padding-left: 0px;
+}
+#head1{
+    height:300px;
+    width: 900px;
+    background-color: rgb(48, 119, 119);
+    border-right: 100px;
+    padding-left: -80px;
+}
+
+.headers{
+    display: inline-block;
+    width: 800px;
+}
+#header{
+    min-height: 250px;
+    width: 380px;
+    background-color: lightslategray;
+}
+.pic1{
+    width: 380px;
+    min-height: 220px;
+    padding: 2px;
+}
+#navigation{
+    min-height: 250px;
+    width: 450px;
+    background-color: lightslategrey;
+    margin-top: -275px;
+    margin-left: 420px;
+    border-top: 10px
+      
+}
+.subcontents{
+    display: inline-block;
+    width: 250px;
+    background-color: rgb(255, 192, 213);
+    padding-left: 40px;
+    height: 380px;
+    margin-top: 15px;
+    padding-top: -20px;
+    padding-bottom: 85px;
+    vertical-align: top;
+    
+}
+
+#pict{
+    height: 150px;
+    width: 286px;
+    margin-left: -38px;  
+}
+
+#Lam{
+    width:100px;
+    height:100px;
+
+}
+
+.qwet{
+    border-block:black
+}
+
+.list{
+    width: 25px;
+    height: 25px;
+    border-top: 0px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    border-top: 10px;
+    display: flexbox
+    
+}
+  
+
+
+#mos{
+    text-align: right;
+    border-bottom: 10px;
+    vertical-align:top;
+    width: 500px;
+    color: white;
+    margin-bottom: 80px;
+    margin-left: 400px;
+    
+}
+
+.button{
+    display: inline-block;
+    padding-right: 10px
+}
+
+#janedoe{
+    background: white;
+    height: 50px;
+    width: 200px;
+    display: inline-block;
+}
+
+#box1{
+    height: 100px;
+    width: 100px;
+}
+
+
+

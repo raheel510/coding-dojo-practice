@@ -1,0 +1,112 @@
+body  * {
+     outline : 2px solid black;    
+
+}
+.container {
+    width: 970px;
+    background: blue;
+    margin: 0 auto; 
+}
+
+.header {
+    background: gray;
+    height: 40px;
+    padding: 15px;
+
+}
+
+.name {
+    width: 485px;
+    display: inline-block;
+
+}
+.bio {
+    width: 420px;
+    display: inline-block;
+    text-align: right;
+}
+
+.main-wrapper {
+    padding: 20px;
+}
+
+.image {
+    display: inline-block;
+    width: 450px;
+    margin-right: 25px;
+    vertical-align: top;
+}
+
+img {
+    width: 448px;
+}
+
+.about-wrapper {
+    display: inline-block;
+    width: 450px;
+    height: 298px;
+    background: #fff;
+}
+.about {
+    background: grey;
+}
+.main-content {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.box {
+    display: inline-block;
+    width: 280px;
+    background: #fff;
+}
+
+.box:last-child, .box:first-child {
+    vertical-align: top;
+}
+
+.box:nth-child(1), .box:nth-child(2) {
+    margin-right: 15px;
+}
+
+.header-title {
+    background: grey;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.img {
+    width: 280px;
+}
+
+.para {
+    min-height: 200px;
+    margin-bottom: 0;
+}
+
+.tech-wrapper { padding: 20px; }
+
+.img-list {
+    width: 25px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-wrapper {
+    text-align: center;
+}
+.foooter {
+    height: 80px;
+    background: #fff;
+    text-align: center;
+}
+
+.cs {
+    margin-right: 5px;
+}
+
+/* .my-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+} */\\\

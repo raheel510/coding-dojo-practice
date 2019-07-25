@@ -1,0 +1,129 @@
+body *{
+    outline:2px solid yellow;
+}
+
+
+#wrapper{
+    background: green;
+    width: 1000px;
+    height: 1200px;
+    margin: 0px auto;
+    background: green;
+}
+
+#header{
+    display: inline-block; 
+    display: block
+}
+
+#title1{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    display: inline-block; 
+    
+}
+
+#title2{
+    margin-left: 500px;
+    margin-bottom: 10px;
+    display: inline-block;
+    
+}
+
+#mainbody{
+    width: 1000px;
+    height: 250px;
+}
+
+#pic {
+    height: 300px;
+    width: 400px;
+    vertical-align: top;
+}
+
+#abouts{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#para{
+    height: 280px;
+    width: 400px;
+    display: inline-block;
+    margin-left: 100px;
+    
+
+}
+
+#about{
+    padding-right: 15px;
+    display: block;
+}
+
+.boxes{
+    height:450px;
+    width: 220px;
+    display: inline-block;
+    padding-right: 50px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.boxe{
+    display: inline-block;
+}
+
+#bottom{
+    height: 650px;
+}
+
+.list{
+    width: 180px;
+    text-align: center;
+    display: block;
+    }
+    
+
+.imgclass{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    padding-right: 18px;
+}
+
+#middle{
+    width: 1000px;
+    height: 300px;
+}
+
+#label{
+    display: block;
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+
+#h3{
+    padding: 0px;
+    margin: 0px;
+}
+
+.footers{
+    height: 30px;
+    padding-right: 50px;
+    
+}
+
+.five{
+    display: block;
+}
+
+.pic2{
+    width: 260px;
+    height: 80px;
+    display: block;                     
+
+}
+

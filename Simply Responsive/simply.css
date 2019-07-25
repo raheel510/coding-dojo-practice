@@ -1,0 +1,39 @@
+
+
+
+#container{
+    background: green;
+    width: 100%;
+    height: 800px;
+}
+
+#marinpara{
+    display: inline-block;
+}
+
+@media only screen and (max-width: 480px){
+    #mainpara {
+        background: yellow;
+        width: 60%;
+        display: inline-block;
+        color: white;
+        
+     }
+}
+ @media only screen and (min-width: 481px){ 
+    #mainpara {
+         background: blue; 
+         width: 70%; 
+         color: yellow;
+    }
+}
+
+@media only screen and (min-width: 1025px){
+    #mainpara {
+        background: red;
+        width: 90%;
+        color: purple;
+        
+    }
+
+}
